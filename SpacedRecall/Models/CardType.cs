@@ -2,11 +2,11 @@
 {
     public class CardType
     {
-        int Id { get; set; }
-        string Name { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
 
-        string Front { get; set; }
-        string Back { get; set; }
+        public string Front { get; set; }
+        public string Back { get; set; }
 
     }
 }

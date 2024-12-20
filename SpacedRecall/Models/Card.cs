@@ -2,9 +2,9 @@
 {
     public class Card
     {
-        int Id { get; set; }
-        CardType CardType { get; set; }
+        public int Id { get; set; }
+        public CardType CardType { get; set; }
 
-        Deck Deck { get; set; }
+        public Deck Deck { get; set; }
     }
 }
