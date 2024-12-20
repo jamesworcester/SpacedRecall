@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpacedRecall")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652cd1747188c9115e93692cb906859da9ce1ab9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0758130fe5e1b5aa3377b2fbda4cc66c6b4e66c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpacedRecall")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpacedRecall")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
