@@ -26,4 +26,6 @@ namespace SpacedRecall.Pages.Decks
             Deck = await _context.Deck.ToListAsync();
         }
     }
+
+    //private 
 }
