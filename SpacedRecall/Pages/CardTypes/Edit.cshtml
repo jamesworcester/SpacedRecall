@@ -1,0 +1,48 @@
+﻿@page
+@model SpacedRecall.Pages.CardTypes.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>CardType</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CardType.Id" />
+            <div class="form-group">
+                
+                <label asp-for="CardType.Name" class="control-label"></label>
+                <input asp-for="CardType.Name" class="form-control" />
+                <span asp-validation-for="CardType.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="CardType.Front" class="control-label"></label>
+                <input asp-for="CardType.Front" class="form-control" />
+                <span asp-validation-for="CardType.Front" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="CardType.Back" class="control-label"></label>
+                <input asp-for="CardType.Back" class="form-control" />
+                <span asp-validation-for="CardType.Back" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

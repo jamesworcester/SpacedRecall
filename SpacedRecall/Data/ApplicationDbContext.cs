@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SpacedRecall.Models;
 
 namespace SpacedRecall.Data
 {
@@ -9,5 +10,7 @@ namespace SpacedRecall.Data
             : base(options)
         {
         }
+        public DbSet<SpacedRecall.Models.Deck> Deck { get; set; } = default!;
+        public DbSet<SpacedRecall.Models.CardType> CardType { get; set; } = default!;
     }
 }

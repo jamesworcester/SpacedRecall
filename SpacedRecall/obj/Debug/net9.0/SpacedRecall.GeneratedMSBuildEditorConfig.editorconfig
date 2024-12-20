@@ -32,6 +32,46 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/CardTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZFR5cGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/CardTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZFR5cGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/CardTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZFR5cGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/CardTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZFR5cGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/CardTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyZFR5cGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/Decks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVja3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/Decks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVja3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/Decks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVja3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/Decks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVja3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/Decks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVja3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/james/source/repos/SpacedRecall/SpacedRecall/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

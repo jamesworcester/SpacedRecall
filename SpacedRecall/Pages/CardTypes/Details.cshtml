@@ -1,0 +1,37 @@
+﻿@page
+@model SpacedRecall.Pages.CardTypes.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>CardType</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CardType.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CardType.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CardType.Front)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CardType.Front)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CardType.Back)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CardType.Back)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.CardType.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
