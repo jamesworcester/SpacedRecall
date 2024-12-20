@@ -1,2 +1,2 @@
 # SpacedRecall
-Spaced Recall - Interleaved Spaced Repetition Active Recall
+The Interleaving Spaced Repetition Active Recall Learning Tool
