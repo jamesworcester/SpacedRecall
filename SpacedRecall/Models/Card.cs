@@ -3,8 +3,7 @@
     public class Card
     {
         public int Id { get; set; }
-        public CardType CardType { get; set; }
-
-        public Deck Deck { get; set; }
+        public CardType Type { get; set; }
+        public Deck ParentDeck { get; set; }
     }
 }
